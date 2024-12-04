@@ -30,5 +30,5 @@ criaCartao(
     'Álbum de fotos', 
     'Minhas memórias!', 
     'Aqui está a montagem das suas fotos.',
-    'https://cdn.temporadalivre.com/uploads/editor/pictures/8bc9aab356b1/content_Jardim_Bot%C3%A2nico_de_Curitiba_reabre_com_cuidados_red.jpg'
+    'https://www.google.com/search?q=foto+de+um+aluno+chorando&oq=foto+de+um+aluno+choran&gs_lcrp=EgZjaHJvbWUqBwgBECEYoAEyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigAdIBCTE4MjczajBqN6gCFLACAQ&client=tablet-android-samsung-ss&sourceid=chrome-mobile&ie=UTF-8#vhid=zgx0lCJdRn_fuM&vssid=_YzlQZ--7Eufb1sQPiJr2-QY_41'
 );
